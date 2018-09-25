@@ -85,6 +85,8 @@ icon-tag:
   galaxy-cross: fa-times
   galaxy-columns: fa-columns
   galaxy-tags: fa-tags
+  galaxy-upload: fa-upload
+  galaxy-tick: fa-check-square-o
 
   # menus, links
   zenodo_link: fa-files-o
