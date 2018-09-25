@@ -77,6 +77,10 @@ blankenberg:
     twitter: dblankenberg
     orcid: 0000-0002-6833-9049
 
+cecilecanlet:
+    name: Cécile Canlet
+    github: false
+
 claresloggett:
     name: Clare Sloggett
 
@@ -96,7 +100,7 @@ dannon:
 delphine-l:
     name: Delphine Lariviere
     email: delphine.lariviere@galaxy.org
-    
+
 dmaticzka:
     name: Daniel Maticzka
 
@@ -129,7 +133,7 @@ fabio-cumbo:
 
 fidelram:
     name: Fidel Ramirez
-    
+
 Florian-H-Lab:
     name: Florian Heyl
 
