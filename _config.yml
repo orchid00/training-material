@@ -26,6 +26,22 @@ logo: "assets/images/GTN.png"
 small_logo: "assets/images/GTN-60px.png"
 biostars_url: https://biostar.usegalaxy.org/
 other_languages: "fr, ja, es, pt"
+words_to_not_translate: 
+- bed
+- dna
+- expression
+- downstream
+- galaxy
+- history
+- mapping
+- reads
+- rna
+- single cell
+- tool
+- toolshed
+- upstream
+- wiggle
+- workflow
 
 # Where things are
 source: .
